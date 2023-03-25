@@ -58,9 +58,9 @@ Follow Parts 1-5 of the getting started tutorial at https://docs.docker.com/get-
 
 Answer the following questions in this document:
 
-1) What is your docker username? Put it in the same line as `DOCKER_USER=` below (no markdown please):
+1) What is your docker username? Put it in the same line as `DOCKER_USER=` below (no markdown please) like `DOCKER_USER=your_username`:
 
-DOCKER_USER=aaryno
+DOCKER_USER=
 
 2) What is docker (your own words)?
 
