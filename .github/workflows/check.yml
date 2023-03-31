@@ -22,6 +22,3 @@ jobs:
           ls -al
           cat README.md
           docker pull "${{ env.DOCKER_USER }}/getting-started"
-      - name: Check docker file <username>/getting-started:part2
-        run: |
-          docker pull "${{ env.DOCKER_USER }}/getting-started:part2"
